@@ -1,4 +1,3 @@
-package calculator;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -22,6 +21,7 @@ import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import javax.swing.border.EtchedBorder;
 //Main class, here method main()
+
 public class GUI_Calculator extends JFrame {
 
 
